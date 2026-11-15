@@ -35,7 +35,7 @@ Build bridges across coast and lake tiles to connect the shores. Land units and 
 
 Organize the Great Works you already own with one click: preserve existing themes, form new combinations first, then improve supported placements.
 
-- **0.2.4 is publicly available as a single-player preview.** Targeted at Gathering Storm with Harmony in Diversity; partial in-game coverage, with limitations documented in the repository.
+- **0.2.4 is publicly available for single-player.** No Harmony in Diversity dependency; also works alongside HD.
 - Includes installable Lua/XML source, bilingual documentation and offline regression checks in its own repository.
 
 [English README](https://github.com/civs6-mods/AutoTheme#readme) · [中文说明](https://github.com/civs6-mods/AutoTheme/blob/main/README.zh-CN.md) · [Subscribe on Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3840337211&l=english) · [Source & issues](https://github.com/civs6-mods/AutoTheme)

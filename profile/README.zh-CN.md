@@ -35,7 +35,7 @@
 
 点击一次，整理自己已经拥有的巨作：保留已有主题，先组合新主题，再改善剩余藏品的存放。
 
-- **0.2.4 已公开发布，为单机预览版。** 目标环境为《风云变幻》与《和而不同》，已完成部分实机覆盖，具体限制见仓库说明。
+- **0.2.4 已公开发布，适用于单机。** 不依赖《和而不同》，也可与其搭配使用。
 - 独立仓库包含可安装 Lua/XML 源码、双语文档和离线回归。
 
 [中文说明](https://github.com/civs6-mods/AutoTheme/blob/main/README.zh-CN.md) · [English README](https://github.com/civs6-mods/AutoTheme#readme) · [订阅 Steam 工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3840337211&l=schinese) · [源码与 Issues](https://github.com/civs6-mods/AutoTheme)
