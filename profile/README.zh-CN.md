@@ -10,7 +10,7 @@
 
 **简体中文** · [English](https://github.com/civs6-mods/.github/blob/main/profile/README.md)
 
-《文明 VI》的便利功能、自动化工具与玩法扩展。
+BridgeSpan：在《文明 VI》中自由造桥，连接两岸。
 
 [浏览仓库](https://github.com/orgs/civs6-mods/repositories) · [BridgeSpan](https://github.com/civs6-mods/BridgeSpan) · [Steam 创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3838759919)
 
@@ -33,24 +33,12 @@
 
 安装要求、玩法限制和验证范围以项目 README 为准。
 
-## 其他项目方向（尚未发布）
-
-下列便利功能、自动化与其他玩法扩展尚未发布到 Steam，也尚未整理为本组织中的独立公开仓库。目前可订阅的项目是上方的 BridgeSpan。
-
-| 方向 | 内容 |
-| :--- | :--- |
-| 便利功能 | 巨作整理、简化城市与单位管理 |
-| 自动化 | 城市项目续建、间谍任务循环、建造者作业、沿途铺铁路 |
-| 玩法扩展 | 新的领袖、能力与规则 |
-
-其他项目会逐步整理为独立仓库。具体进度和可用版本以各项目说明为准。
-
 ## 反馈与参与开发
 
 - **想试玩**：查看项目的安装说明、前置依赖和已验证范围。
 - **想反馈**：到对应项目的 Issues 提交游戏版本、规则集、问题截图、复现步骤和启用模组；问题发生前的存档也有助于定位。
 - **想参与**：欢迎提交 Pull Request，参与翻译、测试、Lua / UI 开发、桥梁模型美术，或讨论功能建议。请说明改动目的与验证结果。
 
-BridgeSpan 代码采用 MIT 许可证；第三方依赖保留各自许可证和署名。其他项目以各仓库的许可说明为准。
+BridgeSpan 代码采用 MIT 许可证；第三方依赖保留各自许可证和署名。
 
 <sub>独立玩家项目，与 Firaxis Games、2K 或 Civilization 官方无隶属关系。Civilization 及相关商标归各自权利人所有。</sub>

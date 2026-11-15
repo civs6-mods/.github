@@ -10,7 +10,7 @@
 
 [简体中文](https://github.com/civs6-mods/.github/blob/main/profile/README.zh-CN.md) · **English**
 
-Quality-of-life improvements, automation tools, and new ways to play Civilization VI.
+BridgeSpan: build your own bridges and connect the shores in Civilization VI.
 
 [Browse repositories](https://github.com/orgs/civs6-mods/repositories) · [BridgeSpan](https://github.com/civs6-mods/BridgeSpan) · [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3838759919&l=english)
 
@@ -33,24 +33,12 @@ Build bridges across coast and lake tiles to connect the shores. Land units and 
 
 Check the project README for installation requirements, gameplay limitations and verification scope.
 
-## Other project directions — not yet released
-
-The quality-of-life, automation and other gameplay projects below have not been released on Steam or published as standalone public repositories in this organization. BridgeSpan, listed above, is currently available to subscribe to.
-
-| Area | Examples |
-| :--- | :--- |
-| Quality of life | Great Work organization and simpler city and unit management |
-| Automation | Repeating city projects and spy missions, builder tasks and railway construction |
-| Gameplay | New leaders, abilities and rules |
-
-Other projects will be organized into separate repositories over time. Check each project's documentation for availability and progress.
-
 ## Feedback & contributions
 
 - **Play:** read the project's installation instructions, dependencies and verified scope.
 - **Report issues:** use the project's Issues and include the game version, ruleset, screenshots, reproduction steps and enabled mods. A save from before the issue is especially helpful.
 - **Contribute:** pull requests for translations, testing, Lua / UI development, and bridge models or art are welcome, as are feature suggestions. Explain the purpose of each change and its verification results.
 
-BridgeSpan code is MIT licensed; third-party dependencies retain their own licenses and attribution. Check each repository for the license of other projects.
+BridgeSpan code is MIT licensed; third-party dependencies retain their own licenses and attribution.
 
 <sub>An independent player project, not affiliated with Firaxis Games, 2K or the official Civilization team. Civilization and related trademarks belong to their respective owners.</sub>
