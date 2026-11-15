@@ -8,7 +8,7 @@
 
 **A little more possibility. One more turn.**
 
-[简体中文](https://github.com/civs6-mods/.github/blob/main/profile/README.md) · **English**
+[简体中文](https://github.com/civs6-mods/.github/blob/main/profile/README.zh-CN.md) · **English**
 
 Quality-of-life improvements, automation tools, and new ways to play Civilization VI.
 
@@ -29,19 +29,19 @@ Build bridges across coast and lake tiles to connect the shores. Land units and 
 - Supports the Windows Steam edition of Civilization VI, Gathering Storm, single-player, including Harmony in Diversity.
 - **v41 is publicly available.** Subscribe and enable it in Additional Content; no external launcher is needed. Stone bridges require Engineering in the standard technology tree, or Arch with Harmony in Diversity. Sea bridges require Steel, and both types also require Shipbuilding.
 
-[English README](https://github.com/civs6-mods/BridgeSpan/blob/main/README.en.md) · [中文说明](https://github.com/civs6-mods/BridgeSpan#readme) · [Subscribe on Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3838759919&l=english) · [Source & issues](https://github.com/civs6-mods/BridgeSpan)
+[English README](https://github.com/civs6-mods/BridgeSpan#readme) · [中文说明](https://github.com/civs6-mods/BridgeSpan/blob/main/README.zh-CN.md) · [Subscribe on Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3838759919&l=english) · [Source & issues](https://github.com/civs6-mods/BridgeSpan)
 
 Check the project README for installation requirements, gameplay limitations and verification scope.
 
-## Less repetition, more decisions
+## Other project directions — not yet released
 
-Let tools handle repeated actions so you can focus on cities, territory and your next move.
+The quality-of-life, automation and other gameplay projects below have not been released on Steam or published as standalone public repositories in this organization. BridgeSpan, listed above, is currently available to subscribe to.
 
 | Area | Examples |
 | :--- | :--- |
 | Quality of life | Great Work organization and simpler city and unit management |
 | Automation | Repeating city projects and spy missions, builder tasks and railway construction |
-| Gameplay | Buildable bridges, plus new leaders, abilities and rules |
+| Gameplay | New leaders, abilities and rules |
 
 Other projects will be organized into separate repositories over time. Check each project's documentation for availability and progress.
 

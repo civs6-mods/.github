@@ -1,56 +1,56 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/civs6-mods/.github/main/assets/avatar.png" width="112" height="112" alt="Civ VI Mods：六边形中的金色 VI 与日出" />
+<img src="https://raw.githubusercontent.com/civs6-mods/.github/main/assets/avatar.png" width="112" height="112" alt="Civ VI Mods: a golden VI and sunrise inside a hexagon" />
 
 # Civ VI Mods
 
-### 文明六模组工坊
+### Independent Civilization VI mods
 
-**为下一回合，添一点新可能。**
+**A little more possibility. One more turn.**
 
-**简体中文** · [English](https://github.com/civs6-mods/.github/blob/main/profile/README.en.md)
+[简体中文](https://github.com/civs6-mods/.github/blob/main/profile/README.zh-CN.md) · **English**
 
-《文明 VI》的便利功能、自动化工具与玩法扩展。
+Quality-of-life improvements, automation tools, and new ways to play Civilization VI.
 
-[浏览仓库](https://github.com/orgs/civs6-mods/repositories) · [BridgeSpan](https://github.com/civs6-mods/BridgeSpan) · [Steam 创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3838759919)
+[Browse repositories](https://github.com/orgs/civs6-mods/repositories) · [BridgeSpan](https://github.com/civs6-mods/BridgeSpan) · [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3838759919&l=english)
 
 </div>
 
 ---
 
-## 当前项目
+## Current projects
 
-### BridgeSpan 自由造桥
+### BridgeSpan — Build Your Own Bridges
 
-在浅海和湖面上修桥，把两岸连起来。陆军和商人从桥上通行，船只仍可经过桥下水域。
+Build bridges across coast and lake tiles to connect the shores. Land units and traders cross the bridge, while ships can still pass through its water tiles.
 
-- 1 格石桥，以及 2 格、3 格跨海大桥，由城市生产；同一城市可以建多座。
-- 多个合法桥位可预览并选择方案，预览显示桥身及 A/B 两岸。
-- 支持 Windows Steam《文明 VI：风云变幻》单人游戏，支持与《和而不同》搭配使用。
-- **v41 已公开发布**；订阅并在“额外内容”启用，无需外部启动器。原版石桥需要“工程”，《和而不同》中需要“拱券”；跨海大桥需要“钢铁”，两类桥均需要“造船术”。
+- One-tile stone bridges and two-/three-tile sea bridges, built through city production. A city can build multiple bridges.
+- Preview and choose between valid layouts, with bridge tiles and A/B shores highlighted.
+- Supports the Windows Steam edition of Civilization VI, Gathering Storm, single-player, including Harmony in Diversity.
+- **v41 is publicly available.** Subscribe and enable it in Additional Content; no external launcher is needed. Stone bridges require Engineering in the standard technology tree, or Arch with Harmony in Diversity. Sea bridges require Steel, and both types also require Shipbuilding.
 
-[中文说明](https://github.com/civs6-mods/BridgeSpan#readme) · [English README](https://github.com/civs6-mods/BridgeSpan/blob/main/README.en.md) · [订阅 Steam 工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3838759919&l=schinese) · [源码与 Issues](https://github.com/civs6-mods/BridgeSpan)
+[English README](https://github.com/civs6-mods/BridgeSpan#readme) · [中文说明](https://github.com/civs6-mods/BridgeSpan/blob/main/README.zh-CN.md) · [Subscribe on Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3838759919&l=english) · [Source & issues](https://github.com/civs6-mods/BridgeSpan)
 
-安装要求、玩法限制和验证范围以项目 README 为准。
+Check the project README for installation requirements, gameplay limitations and verification scope.
 
-## 少一点重复，多一点决策
+## Other project directions — not yet released
 
-把重复操作交给工具，把注意力留给城市、版图和下一步计划。
+The quality-of-life, automation and other gameplay projects below have not been released on Steam or published as standalone public repositories in this organization. BridgeSpan, listed above, is currently available to subscribe to.
 
-| 方向 | 内容 |
+| Area | Examples |
 | :--- | :--- |
-| 便利功能 | 巨作整理、简化城市与单位管理 |
-| 自动化 | 城市项目续建、间谍任务循环、建造者作业、沿途铺铁路 |
-| 玩法扩展 | 自由造桥，以及新的领袖、能力与规则 |
+| Quality of life | Great Work organization and simpler city and unit management |
+| Automation | Repeating city projects and spy missions, builder tasks and railway construction |
+| Gameplay | New leaders, abilities and rules |
 
-其他项目会逐步整理为独立仓库。具体进度和可用版本以各项目说明为准。
+Other projects will be organized into separate repositories over time. Check each project's documentation for availability and progress.
 
-## 反馈与参与开发
+## Feedback & contributions
 
-- **想试玩**：查看项目的安装说明、前置依赖和已验证范围。
-- **想反馈**：到对应项目的 Issues 提交游戏版本、规则集、问题截图、复现步骤和启用模组；问题发生前的存档也有助于定位。
-- **想参与**：欢迎提交 Pull Request，参与翻译、测试、Lua / UI 开发、桥梁模型美术，或讨论功能建议。请说明改动目的与验证结果。
+- **Play:** read the project's installation instructions, dependencies and verified scope.
+- **Report issues:** use the project's Issues and include the game version, ruleset, screenshots, reproduction steps and enabled mods. A save from before the issue is especially helpful.
+- **Contribute:** pull requests for translations, testing, Lua / UI development, and bridge models or art are welcome, as are feature suggestions. Explain the purpose of each change and its verification results.
 
-BridgeSpan 代码采用 MIT 许可证；第三方依赖保留各自许可证和署名。其他项目以各仓库的许可说明为准。
+BridgeSpan code is MIT licensed; third-party dependencies retain their own licenses and attribution. Check each repository for the license of other projects.
 
-<sub>独立玩家项目，与 Firaxis Games、2K 或 Civilization 官方无隶属关系。Civilization 及相关商标归各自权利人所有。</sub>
+<sub>An independent player project, not affiliated with Firaxis Games, 2K or the official Civilization team. Civilization and related trademarks belong to their respective owners.</sub>
