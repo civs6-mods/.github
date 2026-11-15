@@ -10,7 +10,7 @@
 
 [简体中文](https://github.com/civs6-mods/.github/blob/main/profile/README.zh-CN.md) · **English**
 
-BridgeSpan: build your own bridges and connect the shores in Civilization VI.
+Bridges and Great Works organization: gameplay additions and quality-of-life tools for Civilization VI.
 
 [Browse repositories](https://github.com/orgs/civs6-mods/repositories) · [BridgeSpan](https://github.com/civs6-mods/BridgeSpan) · [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3838759919&l=english)
 
@@ -31,7 +31,16 @@ Build bridges across coast and lake tiles to connect the shores. Land units and 
 
 [English README](https://github.com/civs6-mods/BridgeSpan#readme) · [中文说明](https://github.com/civs6-mods/BridgeSpan/blob/main/README.zh-CN.md) · [Subscribe on Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3838759919&l=english) · [Source & issues](https://github.com/civs6-mods/BridgeSpan)
 
-Check the project README for installation requirements, gameplay limitations and verification scope.
+### AutoTheme — Arrange Great Works
+
+Organize the Great Works you already own with one click: preserve existing themes, form new combinations first, then improve supported placements.
+
+- **0.2.4 is publicly available as a single-player preview.** Targeted at Gathering Storm with Harmony in Diversity; partial in-game coverage, with limitations documented in the repository.
+- Includes installable Lua/XML source, bilingual documentation and offline regression checks in its own repository.
+
+[English README](https://github.com/civs6-mods/AutoTheme#readme) · [中文说明](https://github.com/civs6-mods/AutoTheme/blob/main/README.zh-CN.md) · [Subscribe on Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3840337211&l=english) · [Source & issues](https://github.com/civs6-mods/AutoTheme)
+
+Check each project README for installation requirements, gameplay limitations and verification scope.
 
 ## Feedback & contributions
 
@@ -39,6 +48,6 @@ Check the project README for installation requirements, gameplay limitations and
 - **Report issues:** use the project's Issues and include the game version, ruleset, screenshots, reproduction steps and enabled mods. A save from before the issue is especially helpful.
 - **Contribute:** pull requests for translations, testing, Lua / UI development, and bridge models or art are welcome, as are feature suggestions. Explain the purpose of each change and its verification results.
 
-BridgeSpan code is MIT licensed; third-party dependencies retain their own licenses and attribution.
+Original project code is MIT licensed; third-party dependencies retain their own licenses and attribution.
 
 <sub>An independent player project, not affiliated with Firaxis Games, 2K or the official Civilization team. Civilization and related trademarks belong to their respective owners.</sub>

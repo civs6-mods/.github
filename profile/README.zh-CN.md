@@ -10,7 +10,7 @@
 
 **简体中文** · [English](https://github.com/civs6-mods/.github/blob/main/profile/README.md)
 
-BridgeSpan：在《文明 VI》中自由造桥，连接两岸。
+自由造桥与巨作整理，为《文明 VI》增加玩法和便利功能。
 
 [浏览仓库](https://github.com/orgs/civs6-mods/repositories) · [BridgeSpan](https://github.com/civs6-mods/BridgeSpan) · [Steam 创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3838759919)
 
@@ -31,7 +31,16 @@ BridgeSpan：在《文明 VI》中自由造桥，连接两岸。
 
 [中文说明](https://github.com/civs6-mods/BridgeSpan/blob/main/README.zh-CN.md) · [English README](https://github.com/civs6-mods/BridgeSpan#readme) · [订阅 Steam 工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3838759919&l=schinese) · [源码与 Issues](https://github.com/civs6-mods/BridgeSpan)
 
-安装要求、玩法限制和验证范围以项目 README 为准。
+### AutoTheme 巨作一键整理
+
+点击一次，整理自己已经拥有的巨作：保留已有主题，先组合新主题，再改善剩余藏品的存放。
+
+- **0.2.4 已公开发布，为单机预览版。** 目标环境为《风云变幻》与《和而不同》，已完成部分实机覆盖，具体限制见仓库说明。
+- 独立仓库包含可安装 Lua/XML 源码、双语文档和离线回归。
+
+[中文说明](https://github.com/civs6-mods/AutoTheme/blob/main/README.zh-CN.md) · [English README](https://github.com/civs6-mods/AutoTheme#readme) · [订阅 Steam 工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3840337211&l=schinese) · [源码与 Issues](https://github.com/civs6-mods/AutoTheme)
+
+安装要求、玩法限制和验证范围以各项目 README 为准。
 
 ## 反馈与参与开发
 
@@ -39,6 +48,6 @@ BridgeSpan：在《文明 VI》中自由造桥，连接两岸。
 - **想反馈**：到对应项目的 Issues 提交游戏版本、规则集、问题截图、复现步骤和启用模组；问题发生前的存档也有助于定位。
 - **想参与**：欢迎提交 Pull Request，参与翻译、测试、Lua / UI 开发、桥梁模型美术，或讨论功能建议。请说明改动目的与验证结果。
 
-BridgeSpan 代码采用 MIT 许可证；第三方依赖保留各自许可证和署名。
+项目原创代码采用 MIT 许可证；第三方依赖保留各自许可证和署名。
 
 <sub>独立玩家项目，与 Firaxis Games、2K 或 Civilization 官方无隶属关系。Civilization 及相关商标归各自权利人所有。</sub>
