@@ -10,7 +10,7 @@
 
 [简体中文](https://github.com/civs6-mods/.github/blob/main/profile/README.zh-CN.md) · **English**
 
-Bridges and Great Works organization: gameplay additions and quality-of-life tools for Civilization VI.
+Bridges, Great Works organization and repeating spy missions: gameplay additions and quality-of-life tools for Civilization VI.
 
 [Browse repositories](https://github.com/orgs/civs6-mods/repositories) · [BridgeSpan](https://github.com/civs6-mods/BridgeSpan) · [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3838759919&l=english)
 
@@ -39,6 +39,16 @@ Organize the Great Works you already own with one click: preserve existing theme
 - Includes installable Lua/XML source, bilingual documentation and offline regression checks in its own repository.
 
 [English README](https://github.com/civs6-mods/AutoTheme#readme) · [中文说明](https://github.com/civs6-mods/AutoTheme/blob/main/README.zh-CN.md) · [Subscribe on Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3840337211&l=english) · [Source & issues](https://github.com/civs6-mods/AutoTheme)
+
+### SpyRepeat — Repeat Spy Missions
+
+Repeat manually assigned spy missions and counterspy duties, with independent controls for each spy in the native game UI. Pause when promotions, escape or target changes need your attention.
+
+- **0.2.4 single-player preview: source publicly available; not yet published to Steam Workshop.** Install from the repository using its README instructions.
+- Includes native mission-briefing controls, per-spy status in the espionage overview, bilingual documentation and offline regression checks. Turning repeat off preserves the current mission.
+- Partial real-game verification covers one Chinese Harmony in Diversity / Better Espionage Screen setup; see the project README for compatibility limits.
+
+[English README](https://github.com/civs6-mods/SpyRepeat/blob/main/README.en.md) · [中文说明](https://github.com/civs6-mods/SpyRepeat#readme) · [Source](https://github.com/civs6-mods/SpyRepeat) · [Issues](https://github.com/civs6-mods/SpyRepeat/issues)
 
 Check each project README for installation requirements, gameplay limitations and verification scope.
 

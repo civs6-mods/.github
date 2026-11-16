@@ -10,7 +10,7 @@
 
 **简体中文** · [English](https://github.com/civs6-mods/.github/blob/main/profile/README.md)
 
-自由造桥与巨作整理，为《文明 VI》增加玩法和便利功能。
+自由造桥、巨作整理与间谍任务循环，为《文明 VI》增加玩法和便利功能。
 
 [浏览仓库](https://github.com/orgs/civs6-mods/repositories) · [BridgeSpan](https://github.com/civs6-mods/BridgeSpan) · [Steam 创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3838759919)
 
@@ -39,6 +39,16 @@
 - 独立仓库包含可安装 Lua/XML 源码、双语文档和离线回归。
 
 [中文说明](https://github.com/civs6-mods/AutoTheme/blob/main/README.zh-CN.md) · [English README](https://github.com/civs6-mods/AutoTheme#readme) · [订阅 Steam 工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3840337211&l=schinese) · [源码与 Issues](https://github.com/civs6-mods/AutoTheme)
+
+### SpyRepeat 间谍任务循环
+
+重复已经手动安排的间谍任务和反间谍执勤，每名间谍在游戏原生界面中独立控制。遇到晋升、逃跑或目标变化时暂停，等待玩家处理。
+
+- **0.2.4 单机预览版，源码已公开，尚未发布 Steam 创意工坊。** 可按仓库 README 的说明从源码安装。
+- 包含原生任务简报中的循环选项、间谍总览中的逐人状态、双语文档和离线回归。关闭循环不会打断当前任务。
+- 已在一套中文《和而不同》/ Better Espionage Screen 组合中完成部分实机验证，兼容边界详见项目 README。
+
+[中文说明](https://github.com/civs6-mods/SpyRepeat#readme) · [English README](https://github.com/civs6-mods/SpyRepeat/blob/main/README.en.md) · [源码](https://github.com/civs6-mods/SpyRepeat) · [Issues](https://github.com/civs6-mods/SpyRepeat/issues)
 
 安装要求、玩法限制和验证范围以各项目 README 为准。
 
